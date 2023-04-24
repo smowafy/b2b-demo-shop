@@ -71,6 +71,7 @@ regions:
     EU:
         services:
             database:
+                database: sherif_tgmigrate
                 username: spryker
                 password: secret
         stores:
